@@ -121,13 +121,12 @@
 - O que esperar de resistência do subsolo e do solo?
 
 # Tipos de Fundação
-
-    - Para estruturas de pequeno porte (baixo nível de carregamento)
-    - Elevada rigidez, normalmente interligada por vigas "baldrame".
-        - Suportam os esforços de compressão das cargas dos pilares.
-        - Suportam eventuais esforços de tração no próprio material.
-        - Podem ser de concreto simples (não armado), de alvenaria (tijolos comuns) ou de pedra de mão (argamassada ou não)
-        - Geralmente posicionadas com 0,5 a 1 metro de profundidade.
+- Para estruturas de pequeno porte (baixo nível de carregamento)
+- Elevada rigidez, normalmente interligada por vigas "baldrame".
+    - Suportam os esforços de compressão das cargas dos pilares.
+    - Suportam eventuais esforços de tração no próprio material.
+    - Podem ser de concreto simples (não armado), de alvenaria (tijolos comuns) ou de pedra de mão (argamassada ou não)
+    - Geralmente posicionadas com 0,5 a 1 metro de profundidade.
 - Sapatas
     - Isolada
         - Momento Máximo - centro da sapata

@@ -53,14 +53,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-estrutural/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-estrutural/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -87,7 +87,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-estrutural',
+          href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao',
           label: 'GitHub',
           position: 'right',
         },
@@ -131,7 +131,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-estrutural',
+              href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao',
             },
           ],
         },
