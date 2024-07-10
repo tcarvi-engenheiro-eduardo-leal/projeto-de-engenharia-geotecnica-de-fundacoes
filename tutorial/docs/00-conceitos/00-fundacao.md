@@ -32,30 +32,14 @@
      - Solos arenosos. Recalques mais rápicos.
      - Sologos argilossos. Recalque de longo prazo.
 
-## Engenheiro de Estruturas
-- Engenheiro no cálculo estrutural (para estrutura superior)
-    - Viga de equilíbrio / viga baldrame entra no estrutural
-    - Estrutura da edificação (pilar, viga, laje)
-    - Dimensionamento estrutural das peças
-    - Entrega para o Engenheiro Geotécnico:
-        - Cargas Verticais dos Pilares
-        - Cargas Horiontais dos Pilares
-        - Momentos e esforços cortantes que chegam na fundação
+
 
 ## Solo
 - O solo é quem define o desempenho do sistema de resistência solo-fundação-estrutura.
 - O subsolo é um meio complexo e incerto!
 - O que esperar de resistência do subsolo e do solo?
 
-## Solo Colapsível
-- Sem água apresenta condições razoáveis.
-- Mas, devido a chegada de água, torna-se muito fráfil e colpasível.
-    - Quando humedecido, passa a perder propriedades de resistência.
-    - SPT não informa que o solo é colapsível!
-- Ensaio de adensamento duplo edométrico
-- Prova de carga sobre placa
-    - Aplicar carga vertical sobre placa metálica e vê quanto a placa deforma no terreno.
-- Parei em 1:40
+
 
 ## Ensaios de laboratório e de campo para avaliação dos solos
 
