@@ -1,6 +1,6 @@
-# Fundações
+# Fundação
 
-## Conceitos Relevantes:
+## Definições Relevantes de Normas:
 - **Atrito negativo**:
     - normalmente a estrutura da edificação geraria carga nas estacas e nos tubulões. Neste caso, tanto as estacas quanto os tubulões podem não descer devido o atrito que ocorre entre o fuste e o solo adjacente. Esta é a situação de atrito. 
     - No caso de atrito negativo, temos a situação inversa:
