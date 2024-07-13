@@ -86,20 +86,6 @@ node_modules/
 # TCARVI
 node_modules
 build
-#.firebaserc
-# {
-#   "projects": {
-#     "default": "projeto-de-sapata"
-#   }
-# }
-# firebase.json
-# {
-#   "hosting": {
-#     "public": "build",
-#     "ignore": [
-#       "firebase.json",
-#       "**/.*",
-#       "**/node_modules/**"
-#     ]
-#   }
-# }
+.firebaserc
+firebase.json
+yarn.lock
