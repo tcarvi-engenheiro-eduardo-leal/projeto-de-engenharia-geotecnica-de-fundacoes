@@ -53,14 +53,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/edit/main/tutorial/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/edit/main/tutorial/',
         },
         theme: {
           customCss: './src/css/custom.css',
