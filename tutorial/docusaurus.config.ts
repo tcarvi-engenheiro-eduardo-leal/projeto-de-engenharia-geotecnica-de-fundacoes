@@ -5,7 +5,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
-  title: 'engenharia-de-fundacao',
+  title: 'engenharia-geotecnica-de-fundacoes',
   tagline: 'tutoriais',
   favicon: 'img/favicon.ico',
 
@@ -53,14 +53,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/edit/main/tutorial/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-geotecnica-de-fundacoes/edit/main/tutorial/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao/edit/main/tutorial/',
+            'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-geotecnica-de-fundacoes/edit/main/tutorial/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,9 +73,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'engenharia-de-fundacao',
+      title: 'engenharia-geotecnica-de-fundacoes',
       logo: {
-        alt: 'engenharia-de-fundacao Logo',
+        alt: 'engenharia-geotecnica-de-fundacoes Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -87,7 +87,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao',
+          href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-geotecnica-de-fundacoes',
           label: 'GitHub',
           position: 'right',
         },
@@ -131,12 +131,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/engenharia-de-fundacao',
+              href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/projeto-de-engenharia-geotecnica-de-fundacoes',
             },
           ],
         },
       ],
-      copyright: `${new Date().getFullYear()} ©TCARVI`,
+      copyright: `atualizado em  ${new Date().toLocaleDateString("pt-BR")} ©TCARVI`,
     },
     prism: {
       theme: prismThemes.github,

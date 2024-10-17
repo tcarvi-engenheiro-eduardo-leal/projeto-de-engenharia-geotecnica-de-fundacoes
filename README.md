@@ -1,2 +1,2 @@
 # engenharia-de-fundacao
-Tutoriais sobre Engenharia Geotécnica e sobre Fundações.
+Tutoriais sobre Engenharia Geotécnica de Fundações.
