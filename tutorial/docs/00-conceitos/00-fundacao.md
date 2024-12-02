@@ -33,7 +33,7 @@
     - Definição da norma: **Valor de força resultante da divisão do valor caracterítico da força de ruptura geotécnica pelo coeficiente de ponderação. coeficiente de redução no caso da resistência última.** NOTA: Esta grandeza é utilizada no projeto quando se trabalha com valores de cálculo das ações.
 - **Fundação Profunda**:
     - Elemento de fundação que transmite ao terreno ou pela base (resistência de ponta) ou por sua superfície lateral (resistência de fuste) ou por uma combinação das duas, sendo sua ponta ou base apoiada em uma profundidade superior a oito vezes a sua menor dimensão em planta e no mínimo 3,0 m; quando não for atingido o limite de oito vezes, a denominação é justificada. Neste tipo de fundação incluen-se as estacas e os tubulões.
-- **Fundação Rasa**:
+- **Fundação Rasa (direta ou superficial)**:
     - Elemento de fundação cuja base está assentada em profundidade inferior a duas vezes a menor dimensão da fundação, recebendo aí as tensões distribuídas que equilibram a carga aplicada; para esta definição adota-se a menor profundidade, caso esta não seja constante em todo o perímetro da fundação.
 - **Interação fundação-estrutura**:
     - Processos de análise estrutural que consideram conjuntamente as deformabilidades das fundações e da superestrutura.
@@ -76,10 +76,22 @@
     - Elemento de fundação rasa dotado de rigidez para receber e distribuir mais do que 70% das cargas da estrutura.
 - **Sapata**:
     - Elemento de fundação rasa, de concreto armado, dimensionado de modo que as tensões de tração nele resultantes sejam resistidas pelo emprego de armadura especialmente disposta para esse fim.
+    - Embutimento (altura) mínima: 1,5 m
+    - Largura mínima: 60 cm
+    - Onde não devem ser utilizadas:
+        - Em solos transportados de várzea que tenham camadas argilosas modes onde o N (nº de golpes do SPT) é menor do que 5.
+        - Em solos transportados pelo vento (eólicos)
+        - Em solos transportados pela gravidade (coluviais)
 - **Sapata Associada**:
     - Sapata comum a dois pilares; a denominação se aplica também a sapata comum a mais do que dois pilares, quando não alinhados e desde que representem menos de 70% das cargas da estrutura.
 - **Sapata Corrida**:
     - Sapata sujeita à ação de uma carga distribuída linearmente ou de três ou mais pilares ao longo de um mesmo alinhamento, desde que representem menos de 70% das cargas da estrutura.
+    - Onde devem ser utilizadas:
+        - Em prequenas construções, onde a alvenaria autoportante é mais utilizada.
+    - Onde não devem ser utilizadas:
+        - Em solos transportados de várzea que tenham camadas argilosas modes onde o N (nº de golpes do SPT) é menor do que 5.
+        - Em solos transportados pelo vento (eólicos)
+        - Em solos transportados pela gravidade (coluviais)
 - **Solos Colapsíveis**:
     - Solos que apresentam brusca redução de volume quando submetidos a acréscimos de umidade, sob a ação de carga externa.
 - **Solos Compressíveis**:
